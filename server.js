@@ -16,7 +16,7 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/social-network'
     console.log('Connected to MongoDB!')
 });
 
-// Use this to log mongo queries being executed!
+// Use this to log mongo queries being executed
 mongoose.set('debug', true);
 
 app.use(require('./routes'));
