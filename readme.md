@@ -65,11 +65,8 @@ To contribute to social-network, clone this repo locally and commit your code on
 •	Insomnia
 
 ## Questions
-My Github username is collins418, which can be accessed here 
+My Github username is collins418, which can be accessed here :https://github.com/Collins418/socialnetworkAPI
 
-You can reach me at jdeschat@gmail.com with additional questions.
+You can reach me at msdavistoday@gmail.com with additional questions.
 
 Below is the link to my demo video on my Github:
-- [Video location in Github](https://github.com/jdeschat/social-network/tree/main/assets/video)
-
-![Alt Text](https://github.com/jdeschat/social-network/blob/main/assets/video/social-network.gif)
