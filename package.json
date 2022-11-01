@@ -2,5 +2,23 @@
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^6.7.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-network-api",
+  "description": "Due to its speed and adaptability to unstructured data, MongoDB is a popular choice for many social networks.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Collins418/socialnetworkAPI.git"
+  },
+  "author": "LaTavya'Tay' Collins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Collins418/socialnetworkAPI/issues"
+  },
+  "homepage": "https://github.com/Collins418/socialnetworkAPI#readme"
 }
