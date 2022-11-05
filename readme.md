@@ -14,7 +14,6 @@ For routing, Express.js and the Mongoose packages are used.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Acceptance Criteria](#acceptance-criteria)
-- [License](#license)
 - [Contributors](#contributors)
 - [Tests](#tests)
 - [Technology Used](#technology-used)
@@ -55,8 +54,6 @@ Note- I had to use npx nodemon server for mine to work
 ## Contributors
 To contribute to social-network, clone this repo locally and commit your code on a separate branch.
   
-
-
 ## Tests
 
 Demo-https://watch.screencastify.com/v/76crn92NcFmosRIJCynr
