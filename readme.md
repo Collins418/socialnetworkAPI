@@ -1,4 +1,3 @@
-
 # Social-network
 
 ## Description
@@ -61,6 +60,7 @@ To contribute to social-network, clone this repo locally and commit your code on
 ## Tests
 
 Demo-https://watch.screencastify.com/v/76crn92NcFmosRIJCynr
+
 Terminal results-https://watch.screencastify.com/v/qIGC8ooum9EXEMKKvRDa
 
 
@@ -80,4 +80,5 @@ You can reach me at msdavistoday@gmail.com with additional questions.
 Below is the link to my demo video on my Github:
 
 Demo-https://watch.screencastify.com/v/76crn92NcFmosRIJCynr
+
 Terminal results-https://watch.screencastify.com/v/qIGC8ooum9EXEMKKvRDa
