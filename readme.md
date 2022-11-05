@@ -1,3 +1,4 @@
+
 # Social-network
 
 ## Description
@@ -46,6 +47,8 @@ To install this application, clone the code into your terminal for the respectiv
 
 Note- I had to use npx nodemon server for mine to work
 
+<img width="791" alt="api screenshot" src="https://user-images.githubusercontent.com/106499144/200136051-e76777ee-31ec-48bc-853a-4a181f1d14e3.png">
+
 ## Usage
 1. Install npm and dependencies: npm install
 2. Open Insomnia and test API GET, POST, PUT, and DELETE routes for thoughts, users, friends, and reactions
@@ -56,6 +59,9 @@ To contribute to social-network, clone this repo locally and commit your code on
 
 
 ## Tests
+
+Demo-https://watch.screencastify.com/v/76crn92NcFmosRIJCynr
+Terminal results-https://watch.screencastify.com/v/qIGC8ooum9EXEMKKvRDa
 
 
 ## Technology Used
@@ -72,5 +78,6 @@ My Github username is collins418, which can be accessed here :https://github.com
 You can reach me at msdavistoday@gmail.com with additional questions.
 
 Below is the link to my demo video on my Github:
+
 Demo-https://watch.screencastify.com/v/76crn92NcFmosRIJCynr
 Terminal results-https://watch.screencastify.com/v/qIGC8ooum9EXEMKKvRDa
