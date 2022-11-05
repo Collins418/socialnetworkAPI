@@ -10,7 +10,6 @@
   "description": "Due to its speed and adaptability to unstructured data, MongoDB is a popular choice for many social networks.",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Collins418/socialnetworkAPI.git"
